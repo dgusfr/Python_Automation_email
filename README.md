@@ -16,7 +16,7 @@ Este projeto é uma aplicação Python que monitora o preço de um produto em um
 
 <div style="display: flex; flex-direction: row;">
   <div style="margin-right: 20px; display: flex; justify-content: flex-start;">
-    <img src="img/python.png" alt="Logo Python" width="100"/>
+    <img src="images/python.png" alt="Logo Python" width="100"/>
   </div>
 </div>
 
@@ -35,7 +35,7 @@ Este projeto utiliza web scraping para monitorar o preço de um produto em um si
 - Permite configuração de credenciais e preço alvo via arquivo `.env`.
 
 <div align="center">
-  <img src="img/logo.png" alt="Imagem do Projeto" width="100">
+  <img src="images/logo.png" alt="Imagem do Projeto" width="100">
 </div>
 
 ## Explicação
