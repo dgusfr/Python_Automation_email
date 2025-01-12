@@ -35,7 +35,7 @@ Este projeto utiliza web scraping para monitorar o preço de um produto em um si
 - Permite configuração de credenciais e preço alvo via arquivo `.env`.
 
 <div align="center">
-  <img src="images/logo.png" alt="Imagem do Projeto" width="100">
+  <img src="images/logo.gif" alt="Imagem do Projeto" width="300">
 </div>
 
 ## Explicação
